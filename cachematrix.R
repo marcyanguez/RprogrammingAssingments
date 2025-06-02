@@ -42,4 +42,7 @@ cacheSolve(mymatrix)
 mymatrix$get.inverse()
 
 
+## 
+print(mymatrix)
 
+summary(mymatrix)
